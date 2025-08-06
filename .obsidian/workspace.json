@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概念类/openflow.md",
+                "file": "欢迎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "openflow"
+              "title": "欢迎"
+            }
+          },
+          {
+            "id": "cb32a90effeaf966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础知识回顾.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基础知识回顾"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "098151dc7fab2f6b",
@@ -180,29 +194,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "837644d864811a84",
+  "active": "cb32a90effeaf966",
   "lastOpenFiles": [
+    "欢迎.md",
+    "基础知识回顾.md",
     "协议与架构.md",
-    "概念类/openflow.md",
     "通信算法笔记.md",
+    "images/Pasted image 20250718172719.png",
+    "images/Pasted image 20250718172325.png",
+    "images/Pasted image 20250718172245.png",
+    "images/Pasted image 20250718172236.png",
+    "images/Pasted image 20250718172224.png",
+    "images/468fc809d94024629f1cfa477abf8c6.png",
+    "概念类/openflow.md",
     "images/Pasted image 20250718153654.png",
     "images/Pasted image 20250718153111.png",
     "images/Pasted image 20250718152841.png",
     "images/38b8fcdf39510b42d8da684bbc22150.jpg",
-    "images/Pasted image 20250718112404.png",
     "概念类/DPI.md",
     "概念类/隧道技术.md",
     "概念类/数据净荷payload.md",
-    "概念类/images/Pasted image 20250718100802.png",
-    "概念类/images/Pasted image 20250718100142.png",
     "概念类/images",
     "概念类",
-    "images/Pasted image 20250717162953.png",
     "5G核心网.md",
     "23214-i00.pdf",
-    "images/Pasted image 20250715205500.png",
-    "images/Pasted image 20250715205419.png",
-    "欢迎.md",
     "2025-07-15.md"
   ]
 }
